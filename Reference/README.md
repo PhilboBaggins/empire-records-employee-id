@@ -1,6 +1,10 @@
 Reference material for creating Empire Records employee ID
 ==========================================================
 
+![animation.gif](animation.gif)
+
+----------------------------------------
+
 ![vlcsnap-01.png](vlcsnap-01.png)
 ![vlcsnap-02.png](vlcsnap-02.png)
 ![vlcsnap-03.png](vlcsnap-03.png)
